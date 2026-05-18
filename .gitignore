@@ -1,0 +1,36 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# The Android Open Source Project
+.classpath
+.project
+.settings/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+gen/
+bin/
+
+# Misc
+*.log
+.env
+.env.local
